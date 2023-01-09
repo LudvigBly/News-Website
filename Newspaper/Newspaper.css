@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+    padding: 40px 45px 0 45px;
+}
+
+.header {
+    width: auto;
+    height: 100px;
+    background-color: tomato;
+}
+
+.main {
+    margin: 35px 25px;
+    height: 150vh;
+    padding: 0 15%;
+}
+
+.notice-feed {
+    width: 30%;
+    height: 100%;
+    background-color: aqua;
+    float: right;
+}
+
+.news-feed {
+    width: 70%;
+    height: 100%;
+    background-color: tomato;
+}
+
+ul {
+    background-color: tomato;
+}
+
+li {
+    display: inline;
+}
